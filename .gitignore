@@ -1,0 +1,6 @@
+dataset/
+out/
+results.txt
+stats.py
+test_script.py
+__pycache__/
